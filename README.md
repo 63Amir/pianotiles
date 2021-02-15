@@ -1,4 +1,4 @@
-# pianotiles
+# Piano Tiles
 Auto Piano Tiles Bot
 
 ## Get Started
