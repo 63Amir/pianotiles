@@ -6,7 +6,7 @@ Auto Piano Tiles Bot
 
 2. Install the prerequisites
 ```
-pip install -r requirements.txt
+  pip install -r requirements.txt
 ```
 
 3. Run the Script
